@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
 
 String _language = 'language=en';
-String _apiKey = 'apikey=pub_218958cce13436c0fdce02108dfa64926ebcd';
+String _apiKey = 'apikey=pub_21896ddaac605647c21db28f859be1c748da2';
 String _country = 'country=ca';
 
 String url = 'https://newsdata.io/api/1/news?$_apiKey&$_language&$_country';
